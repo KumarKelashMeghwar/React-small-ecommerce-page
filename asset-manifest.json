@@ -1,15 +1,25 @@
 {
   "files": {
     "main.css": "/React-small-ecommerce-page/static/css/main.67ae850e.css",
-    "main.js": "/React-small-ecommerce-page/static/js/main.19fd490c.js",
+    "main.js": "/React-small-ecommerce-page/static/js/main.7066c210.js",
+    "static/media/logo.png": "/React-small-ecommerce-page/static/media/logo.de203535ab13e52e457b.png",
     "static/media/bootstrap-icons.woff?": "/React-small-ecommerce-page/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/red-bottle.png": "/React-small-ecommerce-page/static/media/red-bottle.3a54a208223568033b9e.png",
     "static/media/bootstrap-icons.woff2?": "/React-small-ecommerce-page/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/green-bottle.png": "/React-small-ecommerce-page/static/media/green-bottle.b985d397e2c75fd5c0a1.png",
+    "static/media/bottle-cover-2.png": "/React-small-ecommerce-page/static/media/bottle-cover-2.8d6e27fa7f5b51cec23b.png",
+    "static/media/bottle-cover.png": "/React-small-ecommerce-page/static/media/bottle-cover.54346a00c953f9c4d729.png",
+    "static/media/green-bottlee.png": "/React-small-ecommerce-page/static/media/green-bottlee.e73534d6d11bbeed4efc.png",
+    "static/media/bottle-cap.png": "/React-small-ecommerce-page/static/media/bottle-cap.6d92522e6fd2966949b1.png",
+    "static/media/botttle.png": "/React-small-ecommerce-page/static/media/botttle.0878051b2d4976667777.png",
+    "static/media/red-red-bottle.png": "/React-small-ecommerce-page/static/media/red-red-bottle.a3d89a63f652e5ba7f14.png",
+    "static/media/bottle.png": "/React-small-ecommerce-page/static/media/bottle.365f90185076c4bbb17c.png",
     "index.html": "/React-small-ecommerce-page/index.html",
     "main.67ae850e.css.map": "/React-small-ecommerce-page/static/css/main.67ae850e.css.map",
-    "main.19fd490c.js.map": "/React-small-ecommerce-page/static/js/main.19fd490c.js.map"
+    "main.7066c210.js.map": "/React-small-ecommerce-page/static/js/main.7066c210.js.map"
   },
   "entrypoints": [
     "static/css/main.67ae850e.css",
-    "static/js/main.19fd490c.js"
+    "static/js/main.7066c210.js"
   ]
 }
