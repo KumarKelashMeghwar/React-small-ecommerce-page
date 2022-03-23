@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-small-ecommerce-page/static/css/main.67ae850e.css",
-    "main.js": "/React-small-ecommerce-page/static/js/main.7066c210.js",
+    "main.js": "/React-small-ecommerce-page/static/js/main.d90c9745.js",
     "static/media/logo.png": "/React-small-ecommerce-page/static/media/logo.de203535ab13e52e457b.png",
     "static/media/bootstrap-icons.woff?": "/React-small-ecommerce-page/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
     "static/media/red-bottle.png": "/React-small-ecommerce-page/static/media/red-bottle.3a54a208223568033b9e.png",
@@ -14,12 +14,13 @@
     "static/media/botttle.png": "/React-small-ecommerce-page/static/media/botttle.0878051b2d4976667777.png",
     "static/media/red-red-bottle.png": "/React-small-ecommerce-page/static/media/red-red-bottle.a3d89a63f652e5ba7f14.png",
     "static/media/bottle.png": "/React-small-ecommerce-page/static/media/bottle.365f90185076c4bbb17c.png",
+    "static/media/0.png": "/React-small-ecommerce-page/static/media/0.dc554a9c5a87a222dd8a.png",
     "index.html": "/React-small-ecommerce-page/index.html",
     "main.67ae850e.css.map": "/React-small-ecommerce-page/static/css/main.67ae850e.css.map",
-    "main.7066c210.js.map": "/React-small-ecommerce-page/static/js/main.7066c210.js.map"
+    "main.d90c9745.js.map": "/React-small-ecommerce-page/static/js/main.d90c9745.js.map"
   },
   "entrypoints": [
     "static/css/main.67ae850e.css",
-    "static/js/main.7066c210.js"
+    "static/js/main.d90c9745.js"
   ]
 }
